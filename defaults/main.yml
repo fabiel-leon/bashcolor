@@ -1,0 +1,4 @@
+---
+user: killer
+home_dir: /home/
+user_dir: "{{home_dir}}{{user}}"
